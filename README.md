@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel.
 - 👀 I’m interested in front-end dev work, reading various non-fiction books, hitting the gym, and video games.
-- 🌱 I’m currently learning javascript, but do want to move on to some back-end development once I am confident in my javascript abilities to go further.
+- 🌱 I’m currently learning javascript, but do want to move on to some back-end development once I am confident in my javascript abilities to go further on in my software development journey.
 - 📫 How to reach me: Email - danielkazakov25@gmail.com
 
 <!---
